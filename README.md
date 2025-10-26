@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Wishmitha Devinda  
+# I'm Wishmitha Devinda  
 
 🎓 BSc (Hons) in Computer Science | SLIIT  
 💡 Passionate about AI, Full Stack Development, and Cybersecurity  
