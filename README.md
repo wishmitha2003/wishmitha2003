@@ -13,6 +13,4 @@
 
 ---
 
-<a href="https://app.daily.dev/wishmithadevinda">
-  <img src="https://api.daily.dev/devcards/v2/U0pdc3jVrG39jLk28nLDG.png?type=default&r=q6x" width="356" alt="Wishmitha Devinda's Dev Card"/>
-</a>
+<a href="https://app.daily.dev/wishmithadevinda"><img src="https://api.daily.dev/devcards/v2/U0pdc3jVrG39jLk28nLDG.png?type=wide&r=cnf" width="652" alt="Wishmitha Devinda's Dev Card"/></a>
