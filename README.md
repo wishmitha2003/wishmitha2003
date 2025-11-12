@@ -50,19 +50,6 @@ I'm an ambitious computer science student with a strong passion for creating inn
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-  
-![Wishmitha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wishmitha2003&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wishmitha2003&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wishmitha2003&theme=radical&hide_border=true)
-
-</div>
-
----
-
 ## 🌐 Connect With Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link/)
