@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Wishmitha "Belt" Devinda  
+# 👋 Hi, I'm Wishmitha Devinda  
 
 🎓 **BSc (Hons) in Computer Science | SLIIT**  
 💻 **Software Engineer & AI Enthusiast**  
