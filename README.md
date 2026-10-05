@@ -1,9 +1,5 @@
 # 👋 Hi, I'm Wishmitha Devinda  
 
-<p align="center">
-  <img src="./robot.svg" alt="Walking robot" width="800"/>
-</p>
-
 🎓 **BSc (Hons) in Computer Science | SLIIT**  
 💡 Passionate about **Artificial Intelligence**, **Full Stack Development**, and **Cybersecurity**  
 
@@ -18,3 +14,7 @@
 ---
 
 <a href="https://app.daily.dev/wishmithadevinda"><img src="https://api.daily.dev/devcards/v2/U0pdc3jVrG39jLk28nLDG.png?type=wide&r=cnf" width="652" alt="Wishmitha Devinda's Dev Card"/></a>
+
+<p align="center">
+  <img src="./robot.svg" alt="Walking robot" width="800"/>
+</p>
