@@ -15,3 +15,10 @@
 
 <a href="https://app.daily.dev/wishmithadevinda"><img src="https://api.daily.dev/devcards/v2/U0pdc3jVrG39jLk28nLDG.png?type=wide&r=cnf" width="652" alt="Wishmitha Devinda's Dev Card"/></a>
 
+<p align="center">
+  <img 
+    src="./assets/github-city/city.svg"
+    alt="Wishmitha Devinda's GitHub Contribution City"
+    width="100%"
+  />
+</p>
