@@ -12,6 +12,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wishmitha0720@gmail.com)
 
 ---
+<p align="center"> <img src="./cat.svg" alt="Walking cat" width="800"/> </p>
 
 <a href="https://app.daily.dev/wishmithadevinda"><img src="https://api.daily.dev/devcards/v2/U0pdc3jVrG39jLk28nLDG.png?type=wide&r=cnf" width="652" alt="Wishmitha Devinda's Dev Card"/></a>
 
