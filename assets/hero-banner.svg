@@ -1,0 +1,142 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Wishmitha Devinda Dharmarathna - Computer Science Undergraduate">
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0C121D"/>
+      <stop offset="55%" stop-color="#1E2840"/>
+      <stop offset="100%" stop-color="#0C121D"/>
+    </linearGradient>
+
+    <radialGradient id="purpleGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#6532AA" stop-opacity="0.45"/>
+      <stop offset="60%" stop-color="#6532AA" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#0C121D" stop-opacity="0"/>
+    </radialGradient>
+
+    <radialGradient id="blueGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#486387" stop-opacity="0.38"/>
+      <stop offset="100%" stop-color="#0C121D" stop-opacity="0"/>
+    </radialGradient>
+
+    <linearGradient id="accentLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0C121D" stop-opacity="0"/>
+      <stop offset="25%" stop-color="#486387"/>
+      <stop offset="50%" stop-color="#6532AA"/>
+      <stop offset="75%" stop-color="#486387"/>
+      <stop offset="100%" stop-color="#0C121D" stop-opacity="0"/>
+    </linearGradient>
+
+    <linearGradient id="scanGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#6532AA" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#6532AA" stop-opacity="0.7"/>
+      <stop offset="100%" stop-color="#486387" stop-opacity="0"/>
+    </linearGradient>
+
+    <pattern id="cyberGrid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#334663" stroke-width="0.6" stroke-opacity="0.35"/>
+    </pattern>
+
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Base Background & Grid -->
+  <rect width="1200" height="320" rx="16" fill="url(#bgGrad)"/>
+  <rect width="1200" height="320" rx="16" fill="url(#cyberGrid)"/>
+
+  <!-- Ambient Glows -->
+  <ellipse cx="260" cy="140" rx="280" ry="180" fill="url(#purpleGlow)">
+    <animate attributeName="rx" values="260;310;260" dur="8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.8;1;0.8" dur="8s" repeatCount="indefinite"/>
+  </ellipse>
+  <ellipse cx="960" cy="180" rx="260" ry="160" fill="url(#blueGlow)">
+    <animate attributeName="rx" values="240;290;240" dur="7s" repeatCount="indefinite"/>
+  </ellipse>
+
+  <!-- Outer Border -->
+  <rect x="1" y="1" width="1198" height="318" rx="15" stroke="#334663" stroke-width="1.5" stroke-opacity="0.8"/>
+
+  <!-- Top & Bottom Accent Bars -->
+  <rect x="100" y="0" width="1000" height="2" fill="url(#accentLine)"/>
+  <rect x="100" y="318" width="1000" height="2" fill="url(#accentLine)"/>
+
+  <!-- Futuristic Corner Brackets -->
+  <path d="M 24 48 L 24 24 L 56 24" stroke="#6532AA" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M 1144 24 L 1176 24 L 1176 48" stroke="#486387" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M 24 272 L 24 296 L 56 296" stroke="#486387" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M 1144 296 L 1176 296 L 1176 272" stroke="#6532AA" stroke-width="2.5" stroke-linecap="round"/>
+
+  <!-- Animated Orbital Rings (Right & Left Tech Accents) -->
+  <g opacity="0.55">
+    <circle cx="1050" cy="160" r="92" stroke="#334663" stroke-width="1" stroke-dasharray="8 6">
+      <animateTransform attributeName="transform" type="rotate" from="0 1050 160" to="360 1050 160" dur="28s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1050" cy="160" r="68" stroke="#6532AA" stroke-width="1.5" stroke-dasharray="28 16">
+      <animateTransform attributeName="transform" type="rotate" from="360 1050 160" to="0 1050 160" dur="18s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1050" cy="160" r="42" stroke="#486387" stroke-width="1" stroke-dasharray="4 4">
+      <animateTransform attributeName="transform" type="rotate" from="0 1050 160" to="360 1050 160" dur="12s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1050" cy="160" r="6" fill="#6532AA" filter="url(#glow)">
+      <animate attributeName="r" values="5;8;5" dur="3s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- Animated Floating Data Nodes -->
+  <g fill="#FFFFFF" opacity="0.65">
+    <circle cx="120" cy="85" r="2">
+      <animate attributeName="cy" values="85;72;85" dur="4.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.3;0.9;0.3" dur="4.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="190" cy="240" r="2.5" fill="#6532AA">
+      <animate attributeName="cy" values="240;224;240" dur="5.2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="880" cy="70" r="2" fill="#486387">
+      <animate attributeName="cy" values="70;86;70" dur="6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="940" cy="260" r="2">
+      <animate attributeName="opacity" values="0.2;0.8;0.2" dur="3.8s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- Animated Horizontal Scan Beam -->
+  <rect x="0" y="0" width="240" height="2" fill="url(#scanGrad)">
+    <animate attributeName="x" values="-240;1200" dur="5.5s" repeatCount="indefinite"/>
+    <animate attributeName="y" values="64;256;64" dur="11s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Status Pill -->
+  <g transform="translate(80, 68)">
+    <rect width="278" height="28" rx="14" fill="#1E2840" stroke="#6532AA" stroke-width="1.2"/>
+    <circle cx="18" cy="14" r="4.5" fill="#6532AA" filter="url(#glow)">
+      <animate attributeName="opacity" values="1;0.35;1" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <text x="32" y="18.5" fill="#FFFFFF" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" letter-spacing="1.4">COMPUTER SCIENCE • SLIIT</text>
+  </g>
+
+  <!-- Main Name Title -->
+  <text x="80" y="152" fill="#FFFFFF" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="44" font-weight="800" letter-spacing="0.8">
+    Wishmitha Devinda Dharmarathna
+  </text>
+
+  <!-- Subtitle -->
+  <text x="80" y="192" fill="#CBD5E1" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="18" font-weight="400" letter-spacing="0.4">
+    BSc (Hons) Computer Science Undergraduate  |  AI, Full-Stack, Cybersecurity &amp; DevOps
+  </text>
+
+  <!-- Glowing Divider -->
+  <rect x="80" y="218" width="420" height="2" rx="1" fill="#334663"/>
+  <rect x="80" y="218" width="140" height="2" rx="1" fill="#6532AA">
+    <animate attributeName="width" values="120;240;120" dur="5s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Tagline -->
+  <text x="80" y="252" fill="#94A3B8" font-family="'Fira Code', 'Courier New', monospace" font-size="13.5" letter-spacing="0.5">
+    &gt;_ Aspiring World-Renowned Computer Scientist &amp; Software Engineer
+  </text>
+</svg>
+
