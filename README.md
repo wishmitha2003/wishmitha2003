@@ -11,23 +11,17 @@
   </a>
 
   <p>
-    Building resilient distributed systems, modern full-stack web &amp; mobile applications, and intelligent software — driven by curiosity, clean architecture, and continuous engineering growth.
+    <img src="./assets/intro-card.svg" alt="Building resilient distributed systems, modern full-stack web and mobile applications, and intelligent software — driven by curiosity, clean architecture, and continuous engineering growth." width="92%" />
   </p>
 
   <!-- Quick Navigation & Social Badges -->
   <p>
-    <a href="https://github.com/wishmitha2003" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-0C121D?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub Profile" />
-    </a>
-    <a href="https://www.linkedin.com/in/your-link/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-1E2840?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn Profile" />
-    </a>
-    <a href="mailto:wishmitha0720@gmail.com">
-      <img src="https://img.shields.io/badge/Email-334663?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Email Wishmitha" />
-    </a>
-    <a href="https://app.daily.dev/wishmithadevinda" target="_blank">
-      <img src="https://img.shields.io/badge/daily.dev-6532AA?style=for-the-badge&logo=daily.dev&logoColor=FFFFFF" alt="daily.dev Profile" />
-    </a>
+    <a href="https://your-portfolio-link.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-6532AA?style=for-the-badge&logo=vercel&logoColor=FFFFFF" alt="Portfolio Website" /></a>
+    <a href="https://github.com/wishmitha2003" target="_blank"><img src="https://img.shields.io/badge/GitHub-0C121D?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub Profile" /></a>
+    <a href="https://www.linkedin.com/in/your-link/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-1E2840?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn Profile" /></a>
+    <a href="mailto:wishmitha0720@gmail.com"><img src="https://img.shields.io/badge/Email-334663?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Email Wishmitha" /></a>
+    <a href="https://wa.me/94XXXXXXXXX" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-486387?style=for-the-badge&logo=whatsapp&logoColor=FFFFFF" alt="WhatsApp" /></a>
+    <a href="https://app.daily.dev/wishmithadevinda" target="_blank"><img src="https://img.shields.io/badge/daily.dev-6532AA?style=for-the-badge&logo=daily.dev&logoColor=FFFFFF" alt="daily.dev Profile" /></a>
   </p>
 
 </div>
@@ -87,153 +81,41 @@
 
 <div align="center">
 
-  <!-- GitHub Stats & Streak -->
-  <a href="https://github.com/wishmitha2003">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=wishmitha2003&show_icons=true&bg_color=45,0C121D,1E2840&title_color=FFFFFF&text_color=CBD5E1&icon_color=6532AA&border_color=334663&hide_border=false" alt="Wishmitha's GitHub Statistics" />
-  </a>
-  <a href="https://github.com/wishmitha2003">
-    <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=wishmitha2003&background=45,0C121D,1E2840&ring=6532AA&fire=6532AA&currStreakLabel=FFFFFF&sideLabels=CBD5E1&dates=94A3B8&stroke=334663&border=334663" alt="Wishmitha's GitHub Contribution Streak" />
-  </a>
-
-  <br/><br/>
-
-  <!-- Top Languages & Profile Summary -->
-  <a href="https://github.com/wishmitha2003">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wishmitha2003&layout=compact&langs_count=8&bg_color=45,0C121D,1E2840&title_color=FFFFFF&text_color=CBD5E1&border_color=334663&hide_border=false" alt="Most Used Programming Languages" />
-  </a>
-  <a href="https://github.com/wishmitha2003">
-    <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wishmitha2003&theme=tokyonight" alt="GitHub Profile Summary Card" />
-  </a>
-
-  <br/><br/>
-
-  <!-- Contribution Activity Graph -->
-  <a href="https://github.com/wishmitha2003">
-    <img width="94%" src="https://github-readme-activity-graph.vercel.app/graph?username=wishmitha2003&bg_color=0C121D&color=CBD5E1&line=6532AA&point=FFFFFF&area=true&area_color=6532AA&hide_border=false&border_color=334663" alt="GitHub Contribution Activity Graph" />
-  </a>
-
-</div>
-
-<br/>
-
----
-
-## Featured Projects
-
-> Selected public repositories showcasing distributed systems, full-stack engineering, mobile development, and browser productivity tools.
-
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/wishmitha2003/DS">DS / DistributedS</a></h3>
-      <p>
-        Fault-tolerant distributed messaging system built on a leader–follower architecture with replication, heartbeat-based failure detection, automatic failover, Raft-style consensus, logical clock ordering, and node recovery.
-      </p>
-      <p>
-        <code>Java</code> • <code>Docker</code> • <code>Apache ZooKeeper</code> • <code>HTML/CSS/JS</code>
-      </p>
-      <p>
-        <a href="https://github.com/wishmitha2003/DS">DS Repo</a> • <a href="https://github.com/wishmitha2003/DistributedS">DistributedS Repo</a>
-      </p>
+    <td width="50%" align="center" valign="middle">
+      <a href="https://github.com/wishmitha2003">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=wishmitha2003&show_icons=true&bg_color=45,0C121D,1E2840&title_color=FFFFFF&text_color=CBD5E1&icon_color=6532AA&border_color=334663&hide_border=false" alt="Wishmitha's GitHub Statistics" />
+      </a>
     </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/wishmitha2003/SEWEB">EzyEnglish (SEWEB &amp; SEBACK)</a></h3>
-      <p>
-        Full-stack interactive English learning platform featuring a React + Tailwind + Phaser web client and a Spring Boot 3 REST API with JWT authentication, BCrypt encryption, role-based access control, and MongoDB Atlas.
-      </p>
-      <p>
-        <code>React</code> • <code>Tailwind CSS</code> • <code>Java 17</code> • <code>Spring Boot</code> • <code>MongoDB</code> • <code>Docker</code>
-      </p>
-      <p>
-        <a href="https://github.com/wishmitha2003/SEWEB">Frontend</a> • <a href="https://github.com/wishmitha2003/SEBACK">Backend</a> • <a href="https://sewebsite.vercel.app">Live Demo</a>
-      </p>
+    <td width="50%" align="center" valign="middle">
+      <a href="https://github.com/wishmitha2003">
+        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=wishmitha2003&background=45,0C121D,1E2840&ring=6532AA&fire=6532AA&currStreakLabel=FFFFFF&sideLabels=CBD5E1&dates=94A3B8&stroke=334663&border=334663" alt="Wishmitha's GitHub Contribution Streak" />
+      </a>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/wishmitha2003/BODIMA">BODIMA</a></h3>
-      <p>
-        Smart boarding-finder mobile platform designed for university students in Sri Lanka to discover, search, and compare verified boarding places while enabling owners to manage property listings.
-      </p>
-      <p>
-        <code>Flutter</code> • <code>Dart</code> • <code>Material Design</code>
-      </p>
-      <p>
-        <a href="https://github.com/wishmitha2003/BODIMA">View Repository</a>
-      </p>
+    <td width="50%" align="center" valign="middle">
+      <a href="https://github.com/wishmitha2003">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wishmitha2003&layout=compact&langs_count=8&bg_color=45,0C121D,1E2840&title_color=FFFFFF&text_color=CBD5E1&border_color=334663&hide_border=false" alt="Most Used Programming Languages" />
+      </a>
     </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/wishmitha2003/DueX">DueX</a></h3>
-      <p>
-        Lightweight Chrome Extension (Manifest V3) helping students track assignment deadlines with real-time countdowns, structured deadline management, and smart reminders.
-      </p>
-      <p>
-        <code>React</code> • <code>Vite</code> • <code>JavaScript</code> • <code>Chrome MV3</code>
-      </p>
-      <p>
-        <a href="https://github.com/wishmitha2003/DueX">View Repository</a>
-      </p>
+    <td width="50%" align="center" valign="middle">
+      <a href="https://github.com/wishmitha2003">
+        <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wishmitha2003&theme=tokyonight" alt="GitHub Profile Summary Card" />
+      </a>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/wishmitha2003/Group34">Group34 Web Platform</a></h3>
-      <p>
-        Modern collaborative web application built with a modular React + TypeScript + Tailwind CSS frontend, client-side PDF generation, and automated Vercel deployment.
-      </p>
-      <p>
-        <code>TypeScript</code> • <code>React</code> • <code>Vite</code> • <code>Tailwind CSS</code> • <code>Vercel</code>
-      </p>
-      <p>
-        <a href="https://github.com/wishmitha2003/Group34">Repository</a> • <a href="https://group34.vercel.app">Live Demo</a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/wishmitha2003/SmartClip">SmartClip</a></h3>
-      <p>
-        Smart Chrome extension engineered to save articles in a single click and organize personal reading lists efficiently directly from the browser.
-      </p>
-      <p>
-        <code>JavaScript</code> • <code>Chrome Extension</code> • <code>HTML/CSS</code>
-      </p>
-      <p>
-        <a href="https://github.com/wishmitha2003/SmartClip">View Repository</a>
-      </p>
+    <td colspan="2" align="center" valign="middle">
+      <a href="https://github.com/wishmitha2003">
+        <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=wishmitha2003&bg_color=0C121D&color=CBD5E1&line=6532AA&point=FFFFFF&area=true&area_color=6532AA&hide_border=false&border_color=334663" alt="GitHub Contribution Activity Graph" />
+      </a>
     </td>
   </tr>
 </table>
 
-<br/>
-
----
-
-## Currently Learning
-
-<div align="center">
-
-| Focus Area | Current Exploration |
-| :--- | :--- |
-| **Artificial Intelligence &amp; Machine Learning** | Neural network architectures, applied ML pipelines, and intelligent software integration |
-| **Advanced Software Engineering** | System design, clean architecture, automated testing, and scalable backend patterns |
-| **Parallel &amp; Distributed Computing** | Consensus protocols, fault tolerance, replication, and concurrent system performance |
-| **Cloud Computing &amp; DevOps** | Container orchestration, CI/CD pipelines, infrastructure automation, and cloud-native deployments |
-
 </div>
-
-<br/>
-
----
-
-## Achievements &amp; Certifications
-
-> Verified academic milestones and dedicated slots for upcoming certifications and honors.
-
-| Status | Credential / Milestone | Organization |
-| :--- | :--- | :--- |
-| **In Progress** | BSc (Hons) in Computer Science | SLIIT (Sri Lanka Institute of Information Technology) |
-| **Upcoming** | *Cloud / DevOps Certification (Placeholder)* | *To be updated upon completion* |
-| **Upcoming** | *AI / Machine Learning Specialization (Placeholder)* | *To be updated upon completion* |
-| **Upcoming** | *Hackathon / Competitive Programming Recognition (Placeholder)* | *To be updated upon completion* |
 
 <br/>
 
@@ -248,18 +130,12 @@
   </p>
 
   <p>
-    <a href="https://github.com/wishmitha2003" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-wishmitha2003-0C121D?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub: wishmitha2003" />
-    </a>
-    <a href="https://www.linkedin.com/in/your-link/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-1E2840?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn" />
-    </a>
-    <a href="mailto:wishmitha0720@gmail.com">
-      <img src="https://img.shields.io/badge/Email-wishmitha0720%40gmail.com-334663?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Email: wishmitha0720@gmail.com" />
-    </a>
-    <a href="https://app.daily.dev/wishmithadevinda" target="_blank">
-      <img src="https://img.shields.io/badge/daily.dev-wishmithadevinda-6532AA?style=for-the-badge&logo=daily.dev&logoColor=FFFFFF" alt="daily.dev: wishmithadevinda" />
-    </a>
+    <a href="https://your-portfolio-link.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit-6532AA?style=for-the-badge&logo=vercel&logoColor=FFFFFF" alt="Portfolio Website" /></a>
+    <a href="https://github.com/wishmitha2003" target="_blank"><img src="https://img.shields.io/badge/GitHub-wishmitha2003-0C121D?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub: wishmitha2003" /></a>
+    <a href="https://www.linkedin.com/in/your-link/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-1E2840?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn" /></a>
+    <a href="mailto:wishmitha0720@gmail.com"><img src="https://img.shields.io/badge/Email-wishmitha0720%40gmail.com-334663?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Email: wishmitha0720@gmail.com" /></a>
+    <a href="https://wa.me/94XXXXXXXXX" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-Chat-486387?style=for-the-badge&logo=whatsapp&logoColor=FFFFFF" alt="WhatsApp" /></a>
+    <a href="https://app.daily.dev/wishmithadevinda" target="_blank"><img src="https://img.shields.io/badge/daily.dev-wishmithadevinda-6532AA?style=for-the-badge&logo=daily.dev&logoColor=FFFFFF" alt="daily.dev: wishmithadevinda" /></a>
   </p>
 
   <br/>
