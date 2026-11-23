@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Animated Gradient Hero Banner -->
-  <img src="./header.svg" alt="Wishmitha Devinda Animated Banner" width="100%" />
+  <img src="./header-svg.svg" alt="Wishmitha Devinda Animated Banner" width="100%" />
 
   <br/>
 
