@@ -59,19 +59,8 @@ I am an undergraduate pursuing a **BSc (Hons) in Computer Science at SLIIT**, fo
 
 ## Technology Stack
 
-> Tools, languages, and frameworks used across my repositories and engineering projects.
-
 <div align="center">
-
-| Category | Technologies &amp; Tools |
-| :--- | :--- |
-| **Programming Languages** | ![Java](https://img.shields.io/badge/Java-1C4774?style=flat-square&logo=openjdk&logoColor=F3F1E2) ![JavaScript](https://img.shields.io/badge/JavaScript-1C4774?style=flat-square&logo=javascript&logoColor=F3F1E2) ![TypeScript](https://img.shields.io/badge/TypeScript-1C4774?style=flat-square&logo=typescript&logoColor=9AD0E2) ![Dart](https://img.shields.io/badge/Dart-1C4774?style=flat-square&logo=dart&logoColor=9AD0E2) ![Python](https://img.shields.io/badge/Python-1C4774?style=flat-square&logo=python&logoColor=D3955E) ![C++](https://img.shields.io/badge/C++-1C4774?style=flat-square&logo=cplusplus&logoColor=9AD0E2) |
-| **Frontend Development** | ![React](https://img.shields.io/badge/React-4075AD?style=flat-square&logo=react&logoColor=9AD0E2) ![Vite](https://img.shields.io/badge/Vite-4075AD?style=flat-square&logo=vite&logoColor=F3F1E2) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4075AD?style=flat-square&logo=tailwindcss&logoColor=9AD0E2) ![Flutter](https://img.shields.io/badge/Flutter-4075AD?style=flat-square&logo=flutter&logoColor=F3F1E2) ![HTML5](https://img.shields.io/badge/HTML5-4075AD?style=flat-square&logo=html5&logoColor=D3955E) ![CSS3](https://img.shields.io/badge/CSS3-4075AD?style=flat-square&logo=css3&logoColor=9AD0E2) |
-| **Backend Development** | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-1C4774?style=flat-square&logo=springboot&logoColor=9AD0E2) ![Spring Security](https://img.shields.io/badge/Spring_Security-1C4774?style=flat-square&logo=springsecurity&logoColor=9AD0E2) ![Node.js](https://img.shields.io/badge/Node.js-1C4774?style=flat-square&logo=nodedotjs&logoColor=9AD0E2) ![JWT](https://img.shields.io/badge/JWT_Auth-1C4774?style=flat-square&logo=jsonwebtokens&logoColor=D3955E) ![REST APIs](https://img.shields.io/badge/REST_APIs-1C4774?style=flat-square&logo=fastapi&logoColor=F3F1E2) |
-| **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-4075AD?style=flat-square&logo=mongodb&logoColor=F3F1E2) ![Supabase](https://img.shields.io/badge/Supabase-4075AD?style=flat-square&logo=supabase&logoColor=9AD0E2) |
-| **DevOps &amp; Cloud** | ![Docker](https://img.shields.io/badge/Docker-D3955E?style=flat-square&logo=docker&logoColor=1C4774) ![Apache ZooKeeper](https://img.shields.io/badge/ZooKeeper-D3955E?style=flat-square&logo=apache&logoColor=1C4774) ![Vercel](https://img.shields.io/badge/Vercel-D3955E?style=flat-square&logo=vercel&logoColor=1C4774) ![Render](https://img.shields.io/badge/Render-D3955E?style=flat-square&logo=render&logoColor=1C4774) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-D3955E?style=flat-square&logo=githubactions&logoColor=1C4774) |
-| **Tools &amp; Technologies** | ![Git](https://img.shields.io/badge/Git-1C4774?style=flat-square&logo=git&logoColor=D3955E) ![GitHub](https://img.shields.io/badge/GitHub-1C4774?style=flat-square&logo=github&logoColor=F3F1E2) ![Maven](https://img.shields.io/badge/Maven-1C4774?style=flat-square&logo=apachemaven&logoColor=D3955E) ![Chrome Extensions](https://img.shields.io/badge/Chrome_MV3-1C4774?style=flat-square&logo=googlechrome&logoColor=9AD0E2) ![VS Code](https://img.shields.io/badge/VS_Code-1C4774?style=flat-square&logo=visualstudiocode&logoColor=9AD0E2) ![Blender](https://img.shields.io/badge/Blender-1C4774?style=flat-square&logo=blender&logoColor=D3955E) |
-
+  <img src="https://skillicons.dev/icons?i=java,js,ts,dart,python,cpp,react,vite,tailwind,flutter,html,css,spring,nodejs,mongodb,supabase,docker,vercel,githubactions,git,github,maven,vscode,blender&perline=8" alt="Technology Stack Icons" />
 </div>
 
 <br/>
