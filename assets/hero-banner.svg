@@ -44,10 +44,6 @@
     </filter>
   </defs>
 
-  <!-- Base Background & Grid -->
-  <rect width="1200" height="320" rx="16" fill="url(#bgGrad)"/>
-  <rect width="1200" height="320" rx="16" fill="url(#cyberGrid)"/>
-
   <!-- Ambient Glows -->
   <ellipse cx="260" cy="140" rx="280" ry="180" fill="url(#cyanGlow)">
     <animate attributeName="rx" values="260;310;260" dur="8s" repeatCount="indefinite"/>
@@ -56,9 +52,6 @@
   <ellipse cx="960" cy="180" rx="260" ry="160" fill="url(#amberGlow)">
     <animate attributeName="rx" values="240;290;240" dur="7s" repeatCount="indefinite"/>
   </ellipse>
-
-  <!-- Outer Border -->
-  <rect x="1" y="1" width="1198" height="318" rx="15" stroke="#4075AD" stroke-width="1.5" stroke-opacity="0.9"/>
 
   <!-- Top & Bottom Accent Bars -->
   <rect x="100" y="0" width="1000" height="2" fill="url(#accentLine)"/>
