@@ -1,0 +1,374 @@
+<svg width="1200" height="680" viewBox="0 0 1200 680" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Technology Stack — Programming Languages, Frontend, Backend, Databases, DevOps and Cloud, Tools and Technologies">
+  <defs>
+    <linearGradient id="tsBg" x1="0" y1="0" x2="1200" y2="680" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#112D4B"/>
+      <stop offset="50%" stop-color="#1C4774"/>
+      <stop offset="100%" stop-color="#112D4B"/>
+    </linearGradient>
+
+    <radialGradient id="coreGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#9AD0E2" stop-opacity="0.48"/>
+      <stop offset="55%" stop-color="#4075AD" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#1C4774" stop-opacity="0"/>
+    </radialGradient>
+
+    <radialGradient id="amberHubGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#D3955E" stop-opacity="0.38"/>
+      <stop offset="60%" stop-color="#D3955E" stop-opacity="0.1"/>
+      <stop offset="100%" stop-color="#1C4774" stop-opacity="0"/>
+    </radialGradient>
+
+    <linearGradient id="cyanTrace" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#4075AD"/>
+      <stop offset="50%" stop-color="#9AD0E2"/>
+      <stop offset="100%" stop-color="#4075AD"/>
+    </linearGradient>
+
+    <linearGradient id="amberTrace" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#9AD0E2"/>
+      <stop offset="50%" stop-color="#D3955E"/>
+      <stop offset="100%" stop-color="#D3955E"/>
+    </linearGradient>
+
+    <pattern id="tsGrid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M 36 0 L 0 0 0 36" fill="none" stroke="#9AD0E2" stroke-width="0.5" stroke-opacity="0.12"/>
+    </pattern>
+
+    <filter id="softGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="680" rx="18" fill="url(#tsBg)"/>
+  <rect width="1200" height="680" rx="18" fill="url(#tsGrid)"/>
+  <rect x="1" y="1" width="1198" height="678" rx="17" stroke="#4075AD" stroke-width="1.5" stroke-opacity="0.85"/>
+
+  <!-- Corner Brackets -->
+  <path d="M 22 46 L 22 22 L 54 22" stroke="#9AD0E2" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M 1146 22 L 1178 22 L 1178 46" stroke="#D3955E" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M 22 634 L 22 658 L 54 658" stroke="#D3955E" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M 1146 658 L 1178 658 L 1178 634" stroke="#9AD0E2" stroke-width="2.5" stroke-linecap="round"/>
+
+  <!-- Header -->
+  <text x="600" y="54" text-anchor="middle" fill="#F3F1E2" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="30" font-weight="800" letter-spacing="1.2">
+    Technology Stack
+  </text>
+  <text x="600" y="78" text-anchor="middle" fill="#9AD0E2" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13.5" letter-spacing="0.4">
+    Tools, languages, and frameworks used across my repositories and engineering projects.
+  </text>
+  <rect x="460" y="92" width="280" height="2" rx="1" fill="#4075AD"/>
+  <rect x="530" y="92" width="140" height="2" rx="1" fill="#D3955E">
+    <animate attributeName="x" values="470;590;470" dur="4.5s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Ambient Cluster Glows -->
+  <ellipse cx="600" cy="355" rx="190" ry="150" fill="url(#coreGlow)"/>
+  <ellipse cx="975" cy="215" rx="185" ry="115" fill="url(#amberHubGlow)"/>
+  <ellipse cx="975" cy="510" rx="180" ry="110" fill="url(#amberHubGlow)"/>
+  <ellipse cx="220" cy="215" rx="180" ry="110" fill="url(#coreGlow)"/>
+  <ellipse cx="215" cy="510" rx="180" ry="110" fill="url(#coreGlow)"/>
+
+  <!-- ==================== CIRCUIT TRACES FROM CENTER CORE ==================== -->
+  <!-- To Programming Languages (Top-Left) -->
+  <path id="pLang" d="M 540 330 L 440 330 L 385 245 L 285 245" stroke="#4075AD" stroke-width="2.5" fill="none"/>
+  <path d="M 540 330 L 440 330 L 385 245 L 285 245" stroke="#9AD0E2" stroke-width="2" stroke-dasharray="10 14" fill="none">
+    <animate attributeName="stroke-dashoffset" values="48;0" dur="2.2s" repeatCount="indefinite"/>
+  </path>
+
+  <!-- To Frontend Development (Bottom-Left) -->
+  <path d="M 540 375 L 430 375 L 365 480 L 280 480" stroke="#4075AD" stroke-width="2.5" fill="none"/>
+  <path d="M 540 375 L 430 375 L 365 480 L 280 480" stroke="#9AD0E2" stroke-width="2" stroke-dasharray="10 14" fill="none">
+    <animate attributeName="stroke-dashoffset" values="48;0" dur="2.4s" repeatCount="indefinite"/>
+  </path>
+
+  <!-- To Backend Development (Bottom-Center) -->
+  <path d="M 575 420 L 575 485 L 540 520" stroke="#4075AD" stroke-width="2.5" fill="none"/>
+  <path d="M 575 420 L 575 485 L 540 520" stroke="#9AD0E2" stroke-width="2" stroke-dasharray="8 12" fill="none">
+    <animate attributeName="stroke-dashoffset" values="40;0" dur="2s" repeatCount="indefinite"/>
+  </path>
+
+  <!-- To Databases (Top-Center-Right) -->
+  <path d="M 625 290 L 625 225 L 675 185" stroke="#4075AD" stroke-width="2.5" fill="none"/>
+  <path d="M 625 290 L 625 225 L 675 185" stroke="#9AD0E2" stroke-width="2" stroke-dasharray="8 12" fill="none">
+    <animate attributeName="stroke-dashoffset" values="40;0" dur="2.1s" repeatCount="indefinite"/>
+  </path>
+
+  <!-- To DevOps & Cloud (Top-Right) -->
+  <path d="M 660 335 L 775 335 L 835 235 L 910 235" stroke="#4075AD" stroke-width="2.5" fill="none"/>
+  <path d="M 660 335 L 775 335 L 835 235 L 910 235" stroke="#D3955E" stroke-width="2" stroke-dasharray="10 14" fill="none">
+    <animate attributeName="stroke-dashoffset" values="48;0" dur="2.2s" repeatCount="indefinite"/>
+  </path>
+
+  <!-- To Tools & Technologies (Bottom-Right) -->
+  <path d="M 660 375 L 765 375 L 835 495 L 905 495" stroke="#4075AD" stroke-width="2.5" fill="none"/>
+  <path d="M 660 375 L 765 375 L 835 495 L 905 495" stroke="#D3955E" stroke-width="2" stroke-dasharray="10 14" fill="none">
+    <animate attributeName="stroke-dashoffset" values="48;0" dur="2.5s" repeatCount="indefinite"/>
+  </path>
+
+  <!-- ==================== CENTRAL SERVER / CORE HUB ==================== -->
+  <g transform="translate(600, 350)">
+    <!-- Rotating Outer Ring -->
+    <circle cx="0" cy="5" r="76" stroke="#4075AD" stroke-width="1" stroke-dasharray="6 6">
+      <animateTransform attributeName="transform" type="rotate" from="0 0 5" to="360 0 5" dur="24s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="0" cy="5" r="62" stroke="#9AD0E2" stroke-width="1.2" stroke-dasharray="18 14" opacity="0.7">
+      <animateTransform attributeName="transform" type="rotate" from="360 0 5" to="0 0 5" dur="16s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- Isometric Server Rack Layers -->
+    <!-- Bottom Layer -->
+    <polygon points="0,34 48,14 0,-6 -48,14" fill="#1C4774" stroke="#9AD0E2" stroke-width="1.3"/>
+    <polygon points="-48,14 0,34 0,48 -48,28" fill="#133355" stroke="#4075AD" stroke-width="1"/>
+    <polygon points="48,14 0,34 0,48 48,28" fill="#23578C" stroke="#4075AD" stroke-width="1"/>
+
+    <!-- Middle Layer -->
+    <polygon points="0,12 48,-8 0,-28 -48,-8" fill="#1C4774" stroke="#9AD0E2" stroke-width="1.3"/>
+    <polygon points="-48,-8 0,12 0,26 -48,6" fill="#133355" stroke="#4075AD" stroke-width="1"/>
+    <polygon points="48,-8 0,12 0,26 48,6" fill="#23578C" stroke="#4075AD" stroke-width="1"/>
+
+    <!-- Top Layer -->
+    <polygon points="0,-10 48,-30 0,-50 -48,-30" fill="#295B8E" stroke="#9AD0E2" stroke-width="1.6"/>
+    <polygon points="-48,-30 0,-10 0,4 -48,-16" fill="#173D66" stroke="#4075AD" stroke-width="1"/>
+    <polygon points="48,-30 0,-10 0,4 48,-16" fill="#2A6199" stroke="#4075AD" stroke-width="1"/>
+
+    <!-- Glowing Top Core Chip -->
+    <polygon points="0,-22 20,-30 0,-38 -20,-30" fill="#9AD0E2" filter="url(#softGlow)">
+      <animate attributeName="opacity" values="0.65;1;0.65" dur="2.5s" repeatCount="indefinite"/>
+    </polygon>
+
+    <!-- Server Status LEDs -->
+    <circle cx="-32" cy="18" r="2" fill="#D3955E">
+      <animate attributeName="opacity" values="1;0.2;1" dur="1.6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="-24" cy="21" r="2" fill="#9AD0E2"/>
+    <circle cx="-32" cy="-4" r="2" fill="#9AD0E2">
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="-24" cy="-1" r="2" fill="#D3955E"/>
+  </g>
+
+  <!-- ==================== 1. PROGRAMMING LANGUAGES (TOP-LEFT) ==================== -->
+  <g transform="translate(210, 220)">
+    <!-- Category Pill -->
+    <rect x="-98" y="-102" width="196" height="28" rx="14" fill="#1C4774" stroke="#9AD0E2" stroke-width="1.4"/>
+    <text x="0" y="-83.5" text-anchor="middle" fill="#F3F1E2" font-family="'Segoe UI', sans-serif" font-size="12" font-weight="700">Programming Languages</text>
+
+    <!-- Hub Node -->
+    <circle cx="0" cy="25" r="32" fill="#1C4774" stroke="#9AD0E2" stroke-width="1.6" filter="url(#softGlow)"/>
+    <text x="0" y="21" text-anchor="middle" fill="#9AD0E2" font-family="'Fira Code', monospace" font-size="10" font-weight="700">&lt;/&gt;</text>
+    <text x="0" y="35" text-anchor="middle" fill="#F3F1E2" font-family="'Segoe UI', sans-serif" font-size="9.5" font-weight="600">CORE</text>
+
+    <!-- Spokes -->
+    <line x1="0" y1="25" x2="-115" y2="-35" stroke="#4075AD" stroke-width="1.5"/>
+    <line x1="0" y1="25" x2="-125" y2="25" stroke="#4075AD" stroke-width="1.5"/>
+    <line x1="0" y1="25" x2="-95" y2="85" stroke="#4075AD" stroke-width="1.5"/>
+    <line x1="0" y1="25" x2="105" y2="-45" stroke="#4075AD" stroke-width="1.5"/>
+    <line x1="0" y1="25" x2="125" y2="10" stroke="#4075AD" stroke-width="1.5"/>
+    <line x1="0" y1="25" x2="95" y2="75" stroke="#4075AD" stroke-width="1.5"/>
+
+    <!-- Nodes -->
+    <g transform="translate(-115, -35)">
+      <rect x="-42" y="-14" width="84" height="28" rx="8" fill="#15375C" stroke="#9AD0E2" stroke-width="1.2"/>
+      <text x="0" y="4.5" text-anchor="middle" fill="#F3F1E2" font-family="'Segoe UI', sans-serif" font-size="11.5" font-weight="600">Java</text>
+    </g>
+    <g transform="translate(-125, 25)">
+      <rect x="-46" y="-14" width="92" height="28" rx="8" fill="#15375C" stroke="#9AD0E2" stroke-width="1.2"/>
+      <text x="0" y="4.5" text-anchor="middle" fill="#F3F1E2" font-family="'Segoe UI', sans-serif" font-size="11.5" font-weight="600">JavaScript</text>
+    </g>
+    <g transform="translate(-95, 85)">
+      <rect x="-48" y="-14" width="96" height="28" rx="8" fill="#15375C" stroke="#9AD0E2" stroke-width="1.2"/>
+      <text x="0" y="4.5" text-anchor="middle" fill="#9AD0E2" font-family="'Segoe UI', sans-serif" font-size="11.5" font-weight="600">TypeScript</text>
+    </g>
+    <g transform="translate(105, -45)">
+      <rect x="-40" y="-14" width="80" height="28" rx="8" fill="#15375C" stroke="#D3955E" stroke-width="1.2"/>
+      <text x="0" y="4.5" text-anchor="middle" fill="#F3F1E2" font-family="'Segoe UI', sans-serif" font-size="11.5" font-weight="600">Python</text>
+    </g>
+    <g transform="translate(125, 10)">
+      <rect x="-36" y="-14" width="72" height="28" rx="8" fill="#15375C" stroke="#9AD0E2" stroke-width="1.2"/>
+      <text x="0" y="4.5" text-anchor="middle" fill="#F3F1E2" font-family="'Segoe UI', sans-serif" font-size="11.5" font-weight="600">C++</text>
+    </g>
+    <g transform="translate(95, 75)">
+      <rect x="-36" y="-14" width="72" height="28" rx="8" fill="#15375C" stroke="#9AD0E2" stroke-width="1.2"/>
+      <text x="0" y="4.5" text-anchor="middle" fill="#9AD0E2" font-family="'Segoe UI', sans-serif" font-size="11.5" font-weight="600">Dart</text>
+    </g>
+  </g>
+
+  <!-- ==================== 2. FRONTEND DEVELOPMENT (BOTTOM-LEFT) ==================== -->
+  <g transform="translate(195, 505)">
+    <rect x="-94" y="-110" width="188" height="28" rx="14" fill="#1C4774" stroke="#9AD0E2" stroke-width="1.4"/>
+    <text x="0" y="-91.5" text-anchor="middle" fill="#F3F1E2" font-family="'Segoe UI', sans-serif" font-size="12" font-weight="700">Frontend Development</text>
+
+    <!-- Orbital Glow -->
+    <circle cx="0" cy="0" r="46" stroke="#9AD0E2" stroke-width="1" stroke-dasharray="12 8" opacity="0.55">
+      <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0" dur="18s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="0" cy="0" r="24" fill="#4075AD" stroke="#9AD0E2" stroke-width="1.5"/>
+    <text x="0" y="4" text-anchor="middle" fill="#F3F1E2" font-family="'Segoe UI', sans-serif" font-size="10.5" font-weight="700">UI</text>
+
+    <!-- Nodes -->
+    <g transform="translate(-95, -52)">
+      <rect x="-40" y="-13" width="80" height="26" rx="8" fill="#15375C" stroke="#9AD0E2" stroke-width="1.2"/>
+      <text x="0" y="4" text-anchor="middle" fill="#9AD0E2" font-family="'Segoe UI', sans-serif" font-size="11.5" font-weight="600">React</text>
+    </g>
+    <g transform="translate(-112, 0)">
+      <rect x="-36" y="-13" width="72" height="26" rx="8" fill="#15375C" stroke="#9AD0E2" stroke-width="1.2"/>
+      <text x="0" y="4" text-anchor="middle" fill="#F3F1E2" font-family="'Segoe UI', sans-serif" font-size="11.5" font-weight="600">Vite</text>
+    </g>
+    <g transform="translate(-90, 54)">
+      <rect x="-54" y="-13" width="108" height="26" rx="8" fill="#15375C" stroke="#9AD0E2" stroke-width="1.2"/>
+      <text x="0" y="4" text-anchor="middle" fill="#9AD0E2" font-family="'Segoe UI', sans-serif" font-size="11.5" font-weight="600">Tailwind CSS</text>
+    </g>
+    <g transform="translate(95, -45)">
+      <rect x="-40" y="-13" width="80" height="26" rx="8" fill="#15375C" stroke="#9AD0E2" stroke-width="1.2"/>
+      <text x="0" y="4" text-anchor="middle" fill="#F3F1E2" font-family="'Segoe UI', sans-serif" font-size="11.5" font-weight="600">Flutter</text>
+    </g>
+    <g transform="translate(108, 12)">
+      <rect x="-40" y="-13" width="80" height="26" rx="8" fill="#15375C" stroke="#D3955E" stroke-width="1.2"/>
+      <text x="0" y="4" text-anchor="middle" fill="#F3F1E2" font-family="'Segoe UI', sans-serif" font-size="11.5" font-weight="600">HTML5</text>
+    </g>
+    <g transform="translate(82, 65)">
+      <rect x="-38" y="-13" width="76" height="26" rx="8" fill="#15375C" stroke="#9AD0E2" stroke-width="1.2"/>
+      <text x="0" y="4" text-anchor="middle" fill="#9AD0E2" font-family="'Segoe UI', sans-serif" font-size="11.5" font-weight="600">CSS3</text>
+    </g>
+  </g>
+
+  <!-- ==================== 3. BACKEND DEVELOPMENT (BOTTOM-CENTER) ==================== -->
+  <g transform="translate(530, 560)">
+    <rect x="-92" y="62" width="184" height="28" rx="14" fill="#1C4774" stroke="#9AD0E2" stroke-width="1.4"/>
+    <text x="0" y="80.5" text-anchor="middle" fill="#F3F1E2" font-family="'Segoe UI', sans-serif" font-size="12" font-weight="700">Backend Development</text>
+
+    <!-- Curved Arc -->
+    <path d="M -115 15 A 120 75 0 0 1 115 15" stroke="#4075AD" stroke-width="1.5" stroke-dasharray="6 4" fill="none"/>
+
+    <g transform="translate(-115, 18)">
+      <rect x="-50" y="-13" width="100" height="26" rx="8" fill="#15375C" stroke="#9AD0E2" stroke-width="1.2"/>
+      <text x="0" y="4" text-anchor="middle" fill="#F3F1E2" font-family="'Segoe UI', sans-serif" font-size="11" font-weight="600">Spring Boot</text>
+    </g>
+    <g transform="translate(-58, -32)">
+      <rect x="-58" y="-13" width="116" height="26" rx="8" fill="#15375C" stroke="#9AD0E2" stroke-width="1.2"/>
+      <text x="0" y="4" text-anchor="middle" fill="#9AD0E2" font-family="'Segoe UI', sans-serif" font-size="11" font-weight="600">Spring Security</text>
+    </g>
+    <g transform="translate(58, -32)">
+      <rect x="-44" y="-13" width="88" height="26" rx="8" fill="#15375C" stroke="#9AD0E2" stroke-width="1.2"/>
+      <text x="0" y="4" text-anchor="middle" fill="#F3F1E2" font-family="'Segoe UI', sans-serif" font-size="11" font-weight="600">Node.js</text>
+    </g>
+    <g transform="translate(115, 18)">
+      <rect x="-46" y="-13" width="92" height="26" rx="8" fill="#15375C" stroke="#D3955E" stroke-width="1.2"/>
+      <text x="0" y="4" text-anchor="middle" fill="#F3F1E2" font-family="'Segoe UI', sans-serif" font-size="11" font-weight="600">JWT Auth</text>
+    </g>
+    <g transform="translate(0, 22)">
+      <rect x="-46" y="-13" width="92" height="26" rx="8" fill="#4075AD" stroke="#9AD0E2" stroke-width="1.2"/>
+      <text x="0" y="4" text-anchor="middle" fill="#F3F1E2" font-family="'Segoe UI', sans-serif" font-size="11" font-weight="700">REST APIs</text>
+    </g>
+  </g>
+
+  <!-- ==================== 4. DATABASES (TOP-CENTER-RIGHT) ==================== -->
+  <g transform="translate(680, 175)">
+    <rect x="-64" y="-56" width="128" height="26" rx="13" fill="#1C4774" stroke="#9AD0E2" stroke-width="1.4"/>
+    <text x="0" y="-39" text-anchor="middle" fill="#F3F1E2" font-family="'Segoe UI', sans-serif" font-size="12" font-weight="700">Databases</text>
+
+    <!-- Stylized Database Cylinders -->
+    <g transform="translate(-44, 6)">
+      <ellipse cx="0" cy="-14" rx="22" ry="7" fill="#4075AD" stroke="#9AD0E2" stroke-width="1.2"/>
+      <path d="M -22 -14 L -22 14 A 22 7 0 0 0 22 14 L 22 -14" fill="#15375C" stroke="#9AD0E2" stroke-width="1.2"/>
+      <path d="M -22 0 A 22 7 0 0 0 22 0" fill="none" stroke="#9AD0E2" stroke-width="1" opacity="0.6"/>
+      <rect x="-44" y="28" width="88" height="24" rx="8" fill="#15375C" stroke="#9AD0E2" stroke-width="1.2"/>
+      <text x="0" y="44" text-anchor="middle" fill="#F3F1E2" font-family="'Segoe UI', sans-serif" font-size="11.5" font-weight="600">MongoDB</text>
+    </g>
+
+    <g transform="translate(56, 6)">
+      <ellipse cx="0" cy="-14" rx="22" ry="7" fill="#4075AD" stroke="#9AD0E2" stroke-width="1.2"/>
+      <path d="M -22 -14 L -22 14 A 22 7 0 0 0 22 14 L 22 -14" fill="#15375C" stroke="#9AD0E2" stroke-width="1.2"/>
+      <path d="M -22 0 A 22 7 0 0 0 22 0" fill="none" stroke="#9AD0E2" stroke-width="1" opacity="0.6"/>
+      <rect x="-44" y="28" width="88" height="24" rx="8" fill="#15375C" stroke="#9AD0E2" stroke-width="1.2"/>
+      <text x="0" y="44" text-anchor="middle" fill="#9AD0E2" font-family="'Segoe UI', sans-serif" font-size="11.5" font-weight="600">Supabase</text>
+    </g>
+  </g>
+
+  <!-- ==================== 5. DEVOPS & CLOUD (TOP-RIGHT) ==================== -->
+  <g transform="translate(975, 225)">
+    <rect x="-78" y="-108" width="156" height="28" rx="14" fill="#1C4774" stroke="#D3955E" stroke-width="1.4"/>
+    <text x="0" y="-89.5" text-anchor="middle" fill="#F3F1E2" font-family="'Segoe UI', sans-serif" font-size="12" font-weight="700">DevOps &amp; Cloud</text>
+
+    <!-- Animated Atomic Orbits -->
+    <ellipse cx="0" cy="5" rx="105" ry="42" stroke="#D3955E" stroke-width="1.3" stroke-opacity="0.7" transform="rotate(-18 0 5)">
+      <animateTransform attributeName="transform" type="rotate" from="-18 0 5" to="342 0 5" dur="22s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse cx="0" cy="5" rx="105" ry="42" stroke="#9AD0E2" stroke-width="1.2" stroke-opacity="0.55" transform="rotate(24 0 5)">
+      <animateTransform attributeName="transform" type="rotate" from="24 0 5" to="-336 0 5" dur="26s" repeatCount="indefinite"/>
+    </ellipse>
+    <circle cx="0" cy="5" r="7" fill="#D3955E" filter="url(#softGlow)">
+      <animate attributeName="r" values="6;9;6" dur="2.8s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- Nodes -->
+    <g transform="translate(-95, -42)">
+      <rect x="-42" y="-13" width="84" height="26" rx="8" fill="#15375C" stroke="#D3955E" stroke-width="1.2"/>
+      <text x="0" y="4" text-anchor="middle" fill="#F3F1E2" font-family="'Segoe UI', sans-serif" font-size="11.5" font-weight="600">Docker</text>
+    </g>
+    <g transform="translate(95, -42)">
+      <rect x="-50" y="-13" width="100" height="26" rx="8" fill="#15375C" stroke="#D3955E" stroke-width="1.2"/>
+      <text x="0" y="4" text-anchor="middle" fill="#F3F1E2" font-family="'Segoe UI', sans-serif" font-size="11.5" font-weight="600">ZooKeeper</text>
+    </g>
+    <g transform="translate(-105, 30)">
+      <rect x="-40" y="-13" width="80" height="26" rx="8" fill="#15375C" stroke="#D3955E" stroke-width="1.2"/>
+      <text x="0" y="4" text-anchor="middle" fill="#F3F1E2" font-family="'Segoe UI', sans-serif" font-size="11.5" font-weight="600">Render</text>
+    </g>
+    <g transform="translate(105, 22)">
+      <rect x="-38" y="-13" width="76" height="26" rx="8" fill="#15375C" stroke="#D3955E" stroke-width="1.2"/>
+      <text x="0" y="4" text-anchor="middle" fill="#F3F1E2" font-family="'Segoe UI', sans-serif" font-size="11.5" font-weight="600">Vercel</text>
+    </g>
+    <g transform="translate(0, 74)">
+      <rect x="-62" y="-13" width="124" height="26" rx="8" fill="#15375C" stroke="#D3955E" stroke-width="1.2"/>
+      <text x="0" y="4" text-anchor="middle" fill="#F3F1E2" font-family="'Segoe UI', sans-serif" font-size="11.5" font-weight="600">GitHub Actions</text>
+    </g>
+  </g>
+
+  <!-- ==================== 6. TOOLS & TECHNOLOGIES (BOTTOM-RIGHT) ==================== -->
+  <g transform="translate(980, 505)">
+    <rect x="-88" y="-108" width="176" height="28" rx="14" fill="#1C4774" stroke="#D3955E" stroke-width="1.4"/>
+    <text x="0" y="-89.5" text-anchor="middle" fill="#F3F1E2" font-family="'Segoe UI', sans-serif" font-size="12" font-weight="700">Tools &amp; Technologies</text>
+
+    <!-- Hub & Spokes -->
+    <circle cx="0" cy="5" r="24" fill="#1C4774" stroke="#D3955E" stroke-width="1.5" filter="url(#softGlow)"/>
+    <text x="0" y="9" text-anchor="middle" fill="#F3F1E2" font-family="'Fira Code', monospace" font-size="10" font-weight="700">CLI</text>
+
+    <line x1="0" y1="5" x2="-96" y2="-38" stroke="#D3955E" stroke-width="1.3" stroke-opacity="0.7"/>
+    <line x1="0" y1="5" x2="0" y2="-52" stroke="#D3955E" stroke-width="1.3" stroke-opacity="0.7"/>
+    <line x1="0" y1="5" x2="96" y2="-38" stroke="#D3955E" stroke-width="1.3" stroke-opacity="0.7"/>
+    <line x1="0" y1="5" x2="-102" y2="62" stroke="#D3955E" stroke-width="1.3" stroke-opacity="0.7"/>
+    <line x1="0" y1="5" x2="0" y2="74" stroke="#D3955E" stroke-width="1.3" stroke-opacity="0.7"/>
+    <line x1="0" y1="5" x2="102" y2="62" stroke="#D3955E" stroke-width="1.3" stroke-opacity="0.7"/>
+
+    <g transform="translate(-96, -38)">
+      <rect x="-34" y="-13" width="68" height="26" rx="8" fill="#15375C" stroke="#D3955E" stroke-width="1.2"/>
+      <text x="0" y="4" text-anchor="middle" fill="#F3F1E2" font-family="'Segoe UI', sans-serif" font-size="11.5" font-weight="600">Git</text>
+    </g>
+    <g transform="translate(0, -52)">
+      <rect x="-40" y="-13" width="80" height="26" rx="8" fill="#15375C" stroke="#9AD0E2" stroke-width="1.2"/>
+      <text x="0" y="4" text-anchor="middle" fill="#F3F1E2" font-family="'Segoe UI', sans-serif" font-size="11.5" font-weight="600">GitHub</text>
+    </g>
+    <g transform="translate(96, -38)">
+      <rect x="-38" y="-13" width="76" height="26" rx="8" fill="#15375C" stroke="#D3955E" stroke-width="1.2"/>
+      <text x="0" y="4" text-anchor="middle" fill="#F3F1E2" font-family="'Segoe UI', sans-serif" font-size="11.5" font-weight="600">Maven</text>
+    </g>
+    <g transform="translate(-102, 62)">
+      <rect x="-52" y="-13" width="104" height="26" rx="8" fill="#15375C" stroke="#9AD0E2" stroke-width="1.2"/>
+      <text x="0" y="4" text-anchor="middle" fill="#9AD0E2" font-family="'Segoe UI', sans-serif" font-size="11" font-weight="600">Chrome MV3</text>
+    </g>
+    <g transform="translate(0, 74)">
+      <rect x="-42" y="-13" width="84" height="26" rx="8" fill="#15375C" stroke="#9AD0E2" stroke-width="1.2"/>
+      <text x="0" y="4" text-anchor="middle" fill="#F3F1E2" font-family="'Segoe UI', sans-serif" font-size="11.5" font-weight="600">VS Code</text>
+    </g>
+    <g transform="translate(102, 62)">
+      <rect x="-40" y="-13" width="80" height="26" rx="8" fill="#15375C" stroke="#D3955E" stroke-width="1.2"/>
+      <text x="0" y="4" text-anchor="middle" fill="#F3F1E2" font-family="'Segoe UI', sans-serif" font-size="11.5" font-weight="600">Blender</text>
+    </g>
+  </g>
+</svg>
+

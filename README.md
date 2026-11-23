@@ -16,12 +16,12 @@
 
   <!-- Quick Navigation & Social Badges -->
   <p>
-    <a href="https://your-portfolio-link.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-D3955E?style=for-the-badge&logo=vercel&logoColor=1C4774" alt="Portfolio Website" /></a>
-    <a href="https://github.com/wishmitha2003" target="_blank"><img src="https://img.shields.io/badge/GitHub-1C4774?style=for-the-badge&logo=github&logoColor=F3F1E2" alt="GitHub Profile" /></a>
-    <a href="https://www.linkedin.com/in/your-link/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-4075AD?style=for-the-badge&logo=linkedin&logoColor=F3F1E2" alt="LinkedIn Profile" /></a>
-    <a href="mailto:wishmitha0720@gmail.com"><img src="https://img.shields.io/badge/Email-9AD0E2?style=for-the-badge&logo=gmail&logoColor=1C4774" alt="Email Wishmitha" /></a>
-    <a href="https://wa.me/94XXXXXXXXX" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-4075AD?style=for-the-badge&logo=whatsapp&logoColor=F3F1E2" alt="WhatsApp" /></a>
-    <a href="https://app.daily.dev/wishmithadevinda" target="_blank"><img src="https://img.shields.io/badge/daily.dev-1C4774?style=for-the-badge&logo=daily.dev&logoColor=9AD0E2" alt="daily.dev Profile" /></a>
+    <a href="https://your-portfolio-link.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=FFFFFF" alt="Portfolio Website" /></a>
+    <a href="https://github.com/wishmitha2003" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub Profile" /></a>
+    <a href="https://www.linkedin.com/in/your-link/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn Profile" /></a>
+    <a href="mailto:wishmitha0720@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Email Wishmitha" /></a>
+    <a href="https://wa.me/94XXXXXXXXX" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=FFFFFF" alt="WhatsApp" /></a>
+    <a href="https://app.daily.dev/wishmithadevinda" target="_blank"><img src="https://img.shields.io/badge/daily.dev-151618?style=for-the-badge&logo=daily.dev&logoColor=CE3DF3" alt="daily.dev Profile" /></a>
   </p>
 
 </div>
@@ -32,25 +32,26 @@
 
 ## About Me
 
-<table>
-  <tr>
-    <td width="64%" valign="top">
-      <p>
-        I am <strong>Wishmitha Devinda Dharmarathna</strong>, an undergraduate pursuing a <strong>BSc (Hons) in Computer Science at SLIIT</strong>. I enjoy turning complex problems into reliable, user-focused software — from fault-tolerant distributed backends to responsive web and mobile interfaces.
-      </p>
-      <ul>
-        <li><strong>Academic Focus:</strong> Software Engineering, Distributed Systems, Object-Oriented Design, and Computer Science fundamentals.</li>
-        <li><strong>Core Interests:</strong> Artificial Intelligence, Full-Stack Development, Cybersecurity, Software Engineering, and DevOps.</li>
-        <li><strong>Long-Term Ambition:</strong> To grow into a world-renowned Computer Scientist and Software Engineer building impactful, scalable systems.</li>
-      </ul>
-    </td>
-    <td width="36%" align="center" valign="middle">
-      <img src="./robot.svg" alt="Animated futuristic robot illustration" width="260" />
-      <br/>
-      <sub><code>status: building_the_future</code></sub>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3200&pause=1200&color=9AD0E2&center=true&vCenter=true&width=780&lines=whoami+%E2%86%92+Wishmitha+Devinda+Dharmarathna;degree+%E2%86%92+BSc+(Hons)+Computer+Science+%E2%80%A2+SLIIT;focus+%E2%86%92+AI%2C+Full-Stack+Engineering%2C+Cybersecurity+%26+DevOps;goal+%E2%86%92+Engineering+scalable%2C+resilient%2C+intelligent+systems" alt="About Me Terminal Typing Effect" />
+</div>
+
+```ts
+const developer = {
+  name: "Wishmitha Devinda Dharmarathna",
+  education: "BSc (Hons) in Computer Science — SLIIT",
+  interests: [
+    "Artificial Intelligence",
+    "Full-Stack Development",
+    "Cybersecurity",
+    "Software Engineering",
+    "DevOps",
+  ],
+  ambition: "Become a world-renowned Computer Scientist & Software Engineer",
+};
+```
+
+I am an undergraduate pursuing a **BSc (Hons) in Computer Science at SLIIT**, focused on turning complex engineering challenges into reliable, user-centered software — from fault-tolerant distributed backends to responsive web and mobile applications.
 
 <br/>
 
@@ -58,19 +59,8 @@
 
 ## Technology Stack
 
-> Tools, languages, and frameworks used across my repositories and engineering projects.
-
 <div align="center">
-
-| Category | Technologies &amp; Tools |
-| :--- | :--- |
-| **Programming Languages** | ![Java](https://img.shields.io/badge/Java-1C4774?style=flat-square&logo=openjdk&logoColor=F3F1E2) ![JavaScript](https://img.shields.io/badge/JavaScript-1C4774?style=flat-square&logo=javascript&logoColor=F3F1E2) ![TypeScript](https://img.shields.io/badge/TypeScript-1C4774?style=flat-square&logo=typescript&logoColor=9AD0E2) ![Dart](https://img.shields.io/badge/Dart-1C4774?style=flat-square&logo=dart&logoColor=9AD0E2) ![Python](https://img.shields.io/badge/Python-1C4774?style=flat-square&logo=python&logoColor=D3955E) ![C++](https://img.shields.io/badge/C++-1C4774?style=flat-square&logo=cplusplus&logoColor=9AD0E2) |
-| **Frontend Development** | ![React](https://img.shields.io/badge/React-4075AD?style=flat-square&logo=react&logoColor=9AD0E2) ![Vite](https://img.shields.io/badge/Vite-4075AD?style=flat-square&logo=vite&logoColor=F3F1E2) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4075AD?style=flat-square&logo=tailwindcss&logoColor=9AD0E2) ![Flutter](https://img.shields.io/badge/Flutter-4075AD?style=flat-square&logo=flutter&logoColor=F3F1E2) ![HTML5](https://img.shields.io/badge/HTML5-4075AD?style=flat-square&logo=html5&logoColor=D3955E) ![CSS3](https://img.shields.io/badge/CSS3-4075AD?style=flat-square&logo=css3&logoColor=9AD0E2) |
-| **Backend Development** | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-1C4774?style=flat-square&logo=springboot&logoColor=9AD0E2) ![Spring Security](https://img.shields.io/badge/Spring_Security-1C4774?style=flat-square&logo=springsecurity&logoColor=9AD0E2) ![Node.js](https://img.shields.io/badge/Node.js-1C4774?style=flat-square&logo=nodedotjs&logoColor=9AD0E2) ![JWT](https://img.shields.io/badge/JWT_Auth-1C4774?style=flat-square&logo=jsonwebtokens&logoColor=D3955E) ![REST APIs](https://img.shields.io/badge/REST_APIs-1C4774?style=flat-square&logo=fastapi&logoColor=F3F1E2) |
-| **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-4075AD?style=flat-square&logo=mongodb&logoColor=F3F1E2) ![Supabase](https://img.shields.io/badge/Supabase-4075AD?style=flat-square&logo=supabase&logoColor=9AD0E2) |
-| **DevOps &amp; Cloud** | ![Docker](https://img.shields.io/badge/Docker-D3955E?style=flat-square&logo=docker&logoColor=1C4774) ![Apache ZooKeeper](https://img.shields.io/badge/ZooKeeper-D3955E?style=flat-square&logo=apache&logoColor=1C4774) ![Vercel](https://img.shields.io/badge/Vercel-D3955E?style=flat-square&logo=vercel&logoColor=1C4774) ![Render](https://img.shields.io/badge/Render-D3955E?style=flat-square&logo=render&logoColor=1C4774) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-D3955E?style=flat-square&logo=githubactions&logoColor=1C4774) |
-| **Tools &amp; Technologies** | ![Git](https://img.shields.io/badge/Git-1C4774?style=flat-square&logo=git&logoColor=D3955E) ![GitHub](https://img.shields.io/badge/GitHub-1C4774?style=flat-square&logo=github&logoColor=F3F1E2) ![Maven](https://img.shields.io/badge/Maven-1C4774?style=flat-square&logo=apachemaven&logoColor=D3955E) ![Chrome Extensions](https://img.shields.io/badge/Chrome_MV3-1C4774?style=flat-square&logo=googlechrome&logoColor=9AD0E2) ![VS Code](https://img.shields.io/badge/VS_Code-1C4774?style=flat-square&logo=visualstudiocode&logoColor=9AD0E2) ![Blender](https://img.shields.io/badge/Blender-1C4774?style=flat-square&logo=blender&logoColor=D3955E) |
-
+  <img src="./assets/tech-stack.svg" alt="Animated Technology Stack Architecture — Programming Languages, Frontend, Backend, Databases, DevOps & Cloud, Tools & Technologies" width="100%" />
 </div>
 
 <br/>
@@ -130,12 +120,12 @@
   </p>
 
   <p>
-    <a href="https://your-portfolio-link.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit-D3955E?style=for-the-badge&logo=vercel&logoColor=1C4774" alt="Portfolio Website" /></a>
-    <a href="https://github.com/wishmitha2003" target="_blank"><img src="https://img.shields.io/badge/GitHub-wishmitha2003-1C4774?style=for-the-badge&logo=github&logoColor=F3F1E2" alt="GitHub: wishmitha2003" /></a>
-    <a href="https://www.linkedin.com/in/your-link/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-4075AD?style=for-the-badge&logo=linkedin&logoColor=F3F1E2" alt="LinkedIn" /></a>
-    <a href="mailto:wishmitha0720@gmail.com"><img src="https://img.shields.io/badge/Email-wishmitha0720%40gmail.com-9AD0E2?style=for-the-badge&logo=gmail&logoColor=1C4774" alt="Email: wishmitha0720@gmail.com" /></a>
-    <a href="https://wa.me/94XXXXXXXXX" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-Chat-4075AD?style=for-the-badge&logo=whatsapp&logoColor=F3F1E2" alt="WhatsApp" /></a>
-    <a href="https://app.daily.dev/wishmithadevinda" target="_blank"><img src="https://img.shields.io/badge/daily.dev-wishmithadevinda-1C4774?style=for-the-badge&logo=daily.dev&logoColor=9AD0E2" alt="daily.dev: wishmithadevinda" /></a>
+    <a href="https://your-portfolio-link.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit-6366F1?style=for-the-badge&logo=vercel&logoColor=FFFFFF" alt="Portfolio Website" /></a>
+    <a href="https://github.com/wishmitha2003" target="_blank"><img src="https://img.shields.io/badge/GitHub-wishmitha2003-181717?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub: wishmitha2003" /></a>
+    <a href="https://www.linkedin.com/in/your-link/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn" /></a>
+    <a href="mailto:wishmitha0720@gmail.com"><img src="https://img.shields.io/badge/Email-wishmitha0720%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Email: wishmitha0720@gmail.com" /></a>
+    <a href="https://wa.me/94XXXXXXXXX" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=FFFFFF" alt="WhatsApp" /></a>
+    <a href="https://app.daily.dev/wishmithadevinda" target="_blank"><img src="https://img.shields.io/badge/daily.dev-wishmithadevinda-151618?style=for-the-badge&logo=daily.dev&logoColor=CE3DF3" alt="daily.dev: wishmithadevinda" /></a>
   </p>
 
   <br/>
