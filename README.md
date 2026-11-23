@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Animated Gradient Hero Banner -->
-  <img src="./header-svg.svg" alt="Wishmitha Devinda Animated Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A162C,50:005b96,100:38BDF8&height=230&section=header&text=Wishmitha%20Devinda&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=BSc%20(Hons)%20in%20Computer%20Science%20%7C%20SLIIT%20%E2%80%A2%20AI%2FML%20%26%20Full%20Stack&descSize=16&descAlignY=58&animation=twinkling" alt="Wishmitha Devinda Animated Banner" width="100%" />
 
   <br/>
 
