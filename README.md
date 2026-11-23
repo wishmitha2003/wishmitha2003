@@ -7,7 +7,7 @@
 
   <!-- Animated Typing Effect -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=6532AA&center=true&vCenter=true&width=720&lines=Computer+Science+Undergraduate;Aspiring+Software+Engineer;AI+Enthusiast;Full-Stack+Developer;DevOps+Learner" alt="Animated typing roles: Computer Science Undergraduate, Aspiring Software Engineer, AI Enthusiast, Full-Stack Developer, DevOps Learner" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=D3955E&center=true&vCenter=true&width=720&lines=Computer+Science+Undergraduate;Aspiring+Software+Engineer;AI+Enthusiast;Full-Stack+Developer;DevOps+Learner" alt="Animated typing roles: Computer Science Undergraduate, Aspiring Software Engineer, AI Enthusiast, Full-Stack Developer, DevOps Learner" />
   </a>
 
   <p>
@@ -16,12 +16,12 @@
 
   <!-- Quick Navigation & Social Badges -->
   <p>
-    <a href="https://your-portfolio-link.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-6532AA?style=for-the-badge&logo=vercel&logoColor=FFFFFF" alt="Portfolio Website" /></a>
-    <a href="https://github.com/wishmitha2003" target="_blank"><img src="https://img.shields.io/badge/GitHub-0C121D?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub Profile" /></a>
-    <a href="https://www.linkedin.com/in/your-link/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-1E2840?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn Profile" /></a>
-    <a href="mailto:wishmitha0720@gmail.com"><img src="https://img.shields.io/badge/Email-334663?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Email Wishmitha" /></a>
-    <a href="https://wa.me/94XXXXXXXXX" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-486387?style=for-the-badge&logo=whatsapp&logoColor=FFFFFF" alt="WhatsApp" /></a>
-    <a href="https://app.daily.dev/wishmithadevinda" target="_blank"><img src="https://img.shields.io/badge/daily.dev-6532AA?style=for-the-badge&logo=daily.dev&logoColor=FFFFFF" alt="daily.dev Profile" /></a>
+    <a href="https://your-portfolio-link.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-D3955E?style=for-the-badge&logo=vercel&logoColor=1C4774" alt="Portfolio Website" /></a>
+    <a href="https://github.com/wishmitha2003" target="_blank"><img src="https://img.shields.io/badge/GitHub-1C4774?style=for-the-badge&logo=github&logoColor=F3F1E2" alt="GitHub Profile" /></a>
+    <a href="https://www.linkedin.com/in/your-link/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-4075AD?style=for-the-badge&logo=linkedin&logoColor=F3F1E2" alt="LinkedIn Profile" /></a>
+    <a href="mailto:wishmitha0720@gmail.com"><img src="https://img.shields.io/badge/Email-9AD0E2?style=for-the-badge&logo=gmail&logoColor=1C4774" alt="Email Wishmitha" /></a>
+    <a href="https://wa.me/94XXXXXXXXX" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-4075AD?style=for-the-badge&logo=whatsapp&logoColor=F3F1E2" alt="WhatsApp" /></a>
+    <a href="https://app.daily.dev/wishmithadevinda" target="_blank"><img src="https://img.shields.io/badge/daily.dev-1C4774?style=for-the-badge&logo=daily.dev&logoColor=9AD0E2" alt="daily.dev Profile" /></a>
   </p>
 
 </div>
@@ -64,12 +64,12 @@
 
 | Category | Technologies &amp; Tools |
 | :--- | :--- |
-| **Programming Languages** | ![Java](https://img.shields.io/badge/Java-1E2840?style=flat-square&logo=openjdk&logoColor=FFFFFF) ![JavaScript](https://img.shields.io/badge/JavaScript-1E2840?style=flat-square&logo=javascript&logoColor=F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-1E2840?style=flat-square&logo=typescript&logoColor=3178C6) ![Dart](https://img.shields.io/badge/Dart-1E2840?style=flat-square&logo=dart&logoColor=0175C2) ![Python](https://img.shields.io/badge/Python-1E2840?style=flat-square&logo=python&logoColor=3776AB) ![C++](https://img.shields.io/badge/C++-1E2840?style=flat-square&logo=cplusplus&logoColor=00599C) |
-| **Frontend Development** | ![React](https://img.shields.io/badge/React-334663?style=flat-square&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-334663?style=flat-square&logo=vite&logoColor=646CFF) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-334663?style=flat-square&logo=tailwindcss&logoColor=06B6D4) ![Flutter](https://img.shields.io/badge/Flutter-334663?style=flat-square&logo=flutter&logoColor=02569B) ![HTML5](https://img.shields.io/badge/HTML5-334663?style=flat-square&logo=html5&logoColor=E34F26) ![CSS3](https://img.shields.io/badge/CSS3-334663?style=flat-square&logo=css3&logoColor=1572B6) |
-| **Backend Development** | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-486387?style=flat-square&logo=springboot&logoColor=6DB33F) ![Spring Security](https://img.shields.io/badge/Spring_Security-486387?style=flat-square&logo=springsecurity&logoColor=6DB33F) ![Node.js](https://img.shields.io/badge/Node.js-486387?style=flat-square&logo=nodedotjs&logoColor=339933) ![JWT](https://img.shields.io/badge/JWT_Auth-486387?style=flat-square&logo=jsonwebtokens&logoColor=FFFFFF) ![REST APIs](https://img.shields.io/badge/REST_APIs-486387?style=flat-square&logo=fastapi&logoColor=FFFFFF) |
-| **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-1E2840?style=flat-square&logo=mongodb&logoColor=47A248) ![Supabase](https://img.shields.io/badge/Supabase-1E2840?style=flat-square&logo=supabase&logoColor=3ECF8E) |
-| **DevOps &amp; Cloud** | ![Docker](https://img.shields.io/badge/Docker-6532AA?style=flat-square&logo=docker&logoColor=FFFFFF) ![Apache ZooKeeper](https://img.shields.io/badge/ZooKeeper-6532AA?style=flat-square&logo=apache&logoColor=FFFFFF) ![Vercel](https://img.shields.io/badge/Vercel-6532AA?style=flat-square&logo=vercel&logoColor=FFFFFF) ![Render](https://img.shields.io/badge/Render-6532AA?style=flat-square&logo=render&logoColor=FFFFFF) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-6532AA?style=flat-square&logo=githubactions&logoColor=FFFFFF) |
-| **Tools &amp; Technologies** | ![Git](https://img.shields.io/badge/Git-0C121D?style=flat-square&logo=git&logoColor=F05032) ![GitHub](https://img.shields.io/badge/GitHub-0C121D?style=flat-square&logo=github&logoColor=FFFFFF) ![Maven](https://img.shields.io/badge/Maven-0C121D?style=flat-square&logo=apachemaven&logoColor=C71A36) ![Chrome Extensions](https://img.shields.io/badge/Chrome_MV3-0C121D?style=flat-square&logo=googlechrome&logoColor=FFFFFF) ![VS Code](https://img.shields.io/badge/VS_Code-0C121D?style=flat-square&logo=visualstudiocode&logoColor=007ACC) ![Blender](https://img.shields.io/badge/Blender-0C121D?style=flat-square&logo=blender&logoColor=F5792A) |
+| **Programming Languages** | ![Java](https://img.shields.io/badge/Java-1C4774?style=flat-square&logo=openjdk&logoColor=F3F1E2) ![JavaScript](https://img.shields.io/badge/JavaScript-1C4774?style=flat-square&logo=javascript&logoColor=F3F1E2) ![TypeScript](https://img.shields.io/badge/TypeScript-1C4774?style=flat-square&logo=typescript&logoColor=9AD0E2) ![Dart](https://img.shields.io/badge/Dart-1C4774?style=flat-square&logo=dart&logoColor=9AD0E2) ![Python](https://img.shields.io/badge/Python-1C4774?style=flat-square&logo=python&logoColor=D3955E) ![C++](https://img.shields.io/badge/C++-1C4774?style=flat-square&logo=cplusplus&logoColor=9AD0E2) |
+| **Frontend Development** | ![React](https://img.shields.io/badge/React-4075AD?style=flat-square&logo=react&logoColor=9AD0E2) ![Vite](https://img.shields.io/badge/Vite-4075AD?style=flat-square&logo=vite&logoColor=F3F1E2) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4075AD?style=flat-square&logo=tailwindcss&logoColor=9AD0E2) ![Flutter](https://img.shields.io/badge/Flutter-4075AD?style=flat-square&logo=flutter&logoColor=F3F1E2) ![HTML5](https://img.shields.io/badge/HTML5-4075AD?style=flat-square&logo=html5&logoColor=D3955E) ![CSS3](https://img.shields.io/badge/CSS3-4075AD?style=flat-square&logo=css3&logoColor=9AD0E2) |
+| **Backend Development** | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-1C4774?style=flat-square&logo=springboot&logoColor=9AD0E2) ![Spring Security](https://img.shields.io/badge/Spring_Security-1C4774?style=flat-square&logo=springsecurity&logoColor=9AD0E2) ![Node.js](https://img.shields.io/badge/Node.js-1C4774?style=flat-square&logo=nodedotjs&logoColor=9AD0E2) ![JWT](https://img.shields.io/badge/JWT_Auth-1C4774?style=flat-square&logo=jsonwebtokens&logoColor=D3955E) ![REST APIs](https://img.shields.io/badge/REST_APIs-1C4774?style=flat-square&logo=fastapi&logoColor=F3F1E2) |
+| **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-4075AD?style=flat-square&logo=mongodb&logoColor=F3F1E2) ![Supabase](https://img.shields.io/badge/Supabase-4075AD?style=flat-square&logo=supabase&logoColor=9AD0E2) |
+| **DevOps &amp; Cloud** | ![Docker](https://img.shields.io/badge/Docker-D3955E?style=flat-square&logo=docker&logoColor=1C4774) ![Apache ZooKeeper](https://img.shields.io/badge/ZooKeeper-D3955E?style=flat-square&logo=apache&logoColor=1C4774) ![Vercel](https://img.shields.io/badge/Vercel-D3955E?style=flat-square&logo=vercel&logoColor=1C4774) ![Render](https://img.shields.io/badge/Render-D3955E?style=flat-square&logo=render&logoColor=1C4774) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-D3955E?style=flat-square&logo=githubactions&logoColor=1C4774) |
+| **Tools &amp; Technologies** | ![Git](https://img.shields.io/badge/Git-1C4774?style=flat-square&logo=git&logoColor=D3955E) ![GitHub](https://img.shields.io/badge/GitHub-1C4774?style=flat-square&logo=github&logoColor=F3F1E2) ![Maven](https://img.shields.io/badge/Maven-1C4774?style=flat-square&logo=apachemaven&logoColor=D3955E) ![Chrome Extensions](https://img.shields.io/badge/Chrome_MV3-1C4774?style=flat-square&logo=googlechrome&logoColor=9AD0E2) ![VS Code](https://img.shields.io/badge/VS_Code-1C4774?style=flat-square&logo=visualstudiocode&logoColor=9AD0E2) ![Blender](https://img.shields.io/badge/Blender-1C4774?style=flat-square&logo=blender&logoColor=D3955E) |
 
 </div>
 
@@ -85,31 +85,31 @@
   <tr>
     <td width="50%" align="center" valign="middle">
       <a href="https://github.com/wishmitha2003">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=wishmitha2003&show_icons=true&bg_color=45,0C121D,1E2840&title_color=FFFFFF&text_color=CBD5E1&icon_color=6532AA&border_color=334663&hide_border=false" alt="Wishmitha's GitHub Statistics" />
+        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=wishmitha2003&show_icons=true&bg_color=45,1C4774,4075AD&title_color=F3F1E2&text_color=F3F1E2&icon_color=D3955E&border_color=9AD0E2&hide_border=false" alt="Wishmitha's GitHub Statistics" />
       </a>
     </td>
     <td width="50%" align="center" valign="middle">
       <a href="https://github.com/wishmitha2003">
-        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=wishmitha2003&background=45,0C121D,1E2840&ring=6532AA&fire=6532AA&currStreakLabel=FFFFFF&sideLabels=CBD5E1&dates=94A3B8&stroke=334663&border=334663" alt="Wishmitha's GitHub Contribution Streak" />
+        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=wishmitha2003&background=45,1C4774,4075AD&ring=D3955E&fire=D3955E&currStreakLabel=F3F1E2&sideLabels=F3F1E2&dates=9AD0E2&stroke=9AD0E2&border=9AD0E2" alt="Wishmitha's GitHub Contribution Streak" />
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center" valign="middle">
       <a href="https://github.com/wishmitha2003">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wishmitha2003&layout=compact&langs_count=8&bg_color=45,0C121D,1E2840&title_color=FFFFFF&text_color=CBD5E1&border_color=334663&hide_border=false" alt="Most Used Programming Languages" />
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wishmitha2003&layout=compact&langs_count=8&bg_color=45,1C4774,4075AD&title_color=F3F1E2&text_color=F3F1E2&border_color=9AD0E2&hide_border=false" alt="Most Used Programming Languages" />
       </a>
     </td>
     <td width="50%" align="center" valign="middle">
       <a href="https://github.com/wishmitha2003">
-        <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wishmitha2003&theme=tokyonight" alt="GitHub Profile Summary Card" />
+        <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wishmitha2003&theme=nord_dark" alt="GitHub Profile Summary Card" />
       </a>
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center" valign="middle">
       <a href="https://github.com/wishmitha2003">
-        <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=wishmitha2003&bg_color=0C121D&color=CBD5E1&line=6532AA&point=FFFFFF&area=true&area_color=6532AA&hide_border=false&border_color=334663" alt="GitHub Contribution Activity Graph" />
+        <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=wishmitha2003&bg_color=1C4774&color=F3F1E2&line=9AD0E2&point=D3955E&area=true&area_color=4075AD&hide_border=false&border_color=9AD0E2" alt="GitHub Contribution Activity Graph" />
       </a>
     </td>
   </tr>
@@ -130,12 +130,12 @@
   </p>
 
   <p>
-    <a href="https://your-portfolio-link.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit-6532AA?style=for-the-badge&logo=vercel&logoColor=FFFFFF" alt="Portfolio Website" /></a>
-    <a href="https://github.com/wishmitha2003" target="_blank"><img src="https://img.shields.io/badge/GitHub-wishmitha2003-0C121D?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub: wishmitha2003" /></a>
-    <a href="https://www.linkedin.com/in/your-link/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-1E2840?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn" /></a>
-    <a href="mailto:wishmitha0720@gmail.com"><img src="https://img.shields.io/badge/Email-wishmitha0720%40gmail.com-334663?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Email: wishmitha0720@gmail.com" /></a>
-    <a href="https://wa.me/94XXXXXXXXX" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-Chat-486387?style=for-the-badge&logo=whatsapp&logoColor=FFFFFF" alt="WhatsApp" /></a>
-    <a href="https://app.daily.dev/wishmithadevinda" target="_blank"><img src="https://img.shields.io/badge/daily.dev-wishmithadevinda-6532AA?style=for-the-badge&logo=daily.dev&logoColor=FFFFFF" alt="daily.dev: wishmithadevinda" /></a>
+    <a href="https://your-portfolio-link.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit-D3955E?style=for-the-badge&logo=vercel&logoColor=1C4774" alt="Portfolio Website" /></a>
+    <a href="https://github.com/wishmitha2003" target="_blank"><img src="https://img.shields.io/badge/GitHub-wishmitha2003-1C4774?style=for-the-badge&logo=github&logoColor=F3F1E2" alt="GitHub: wishmitha2003" /></a>
+    <a href="https://www.linkedin.com/in/your-link/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-4075AD?style=for-the-badge&logo=linkedin&logoColor=F3F1E2" alt="LinkedIn" /></a>
+    <a href="mailto:wishmitha0720@gmail.com"><img src="https://img.shields.io/badge/Email-wishmitha0720%40gmail.com-9AD0E2?style=for-the-badge&logo=gmail&logoColor=1C4774" alt="Email: wishmitha0720@gmail.com" /></a>
+    <a href="https://wa.me/94XXXXXXXXX" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-Chat-4075AD?style=for-the-badge&logo=whatsapp&logoColor=F3F1E2" alt="WhatsApp" /></a>
+    <a href="https://app.daily.dev/wishmithadevinda" target="_blank"><img src="https://img.shields.io/badge/daily.dev-wishmithadevinda-1C4774?style=for-the-badge&logo=daily.dev&logoColor=9AD0E2" alt="daily.dev: wishmithadevinda" /></a>
   </p>
 
   <br/>
@@ -154,7 +154,7 @@
 
 <div align="center">
 
-  <img src="https://komarev.com/ghpvc/?username=wishmitha2003&label=Profile+Views&color=6532AA&style=for-the-badge" alt="GitHub Profile Visitor Counter" />
+  <img src="https://komarev.com/ghpvc/?username=wishmitha2003&label=Profile+Views&color=1C4774&style=for-the-badge" alt="GitHub Profile Visitor Counter" />
 
   <br/><br/>
 

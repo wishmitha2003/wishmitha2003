@@ -1,29 +1,29 @@
 <svg width="1200" height="140" viewBox="0 0 1200 140" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Footer Banner - Engineering the future">
   <defs>
     <linearGradient id="footerBg" x1="0" y1="0" x2="1200" y2="140" gradientUnits="userSpaceOnUse">
-      <stop offset="0%" stop-color="#0C121D"/>
-      <stop offset="50%" stop-color="#1E2840"/>
-      <stop offset="100%" stop-color="#0C121D"/>
+      <stop offset="0%" stop-color="#1C4774"/>
+      <stop offset="50%" stop-color="#295B8E"/>
+      <stop offset="100%" stop-color="#1C4774"/>
     </linearGradient>
     <linearGradient id="waveGrad1" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
-      <stop offset="0%" stop-color="#334663" stop-opacity="0.35"/>
-      <stop offset="50%" stop-color="#6532AA" stop-opacity="0.55"/>
-      <stop offset="100%" stop-color="#486387" stop-opacity="0.35"/>
+      <stop offset="0%" stop-color="#4075AD" stop-opacity="0.45"/>
+      <stop offset="50%" stop-color="#9AD0E2" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#4075AD" stop-opacity="0.45"/>
     </linearGradient>
     <linearGradient id="waveGrad2" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
-      <stop offset="0%" stop-color="#6532AA" stop-opacity="0.25"/>
-      <stop offset="50%" stop-color="#486387" stop-opacity="0.45"/>
-      <stop offset="100%" stop-color="#6532AA" stop-opacity="0.25"/>
+      <stop offset="0%" stop-color="#D3955E" stop-opacity="0.28"/>
+      <stop offset="50%" stop-color="#9AD0E2" stop-opacity="0.38"/>
+      <stop offset="100%" stop-color="#D3955E" stop-opacity="0.28"/>
     </linearGradient>
     <linearGradient id="topPulse" x1="0" y1="0" x2="100%" y2="0">
-      <stop offset="0%" stop-color="#0C121D" stop-opacity="0"/>
-      <stop offset="50%" stop-color="#6532AA"/>
-      <stop offset="100%" stop-color="#0C121D" stop-opacity="0"/>
+      <stop offset="0%" stop-color="#1C4774" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#D3955E"/>
+      <stop offset="100%" stop-color="#1C4774" stop-opacity="0"/>
     </linearGradient>
   </defs>
 
   <rect width="1200" height="140" rx="14" fill="url(#footerBg)"/>
-  <rect x="1" y="1" width="1198" height="138" rx="13" stroke="#334663" stroke-width="1.2" stroke-opacity="0.7"/>
+  <rect x="1" y="1" width="1198" height="138" rx="13" stroke="#4075AD" stroke-width="1.2" stroke-opacity="0.8"/>
   <rect x="150" y="0" width="900" height="2" fill="url(#topPulse)"/>
 
   <!-- Animated Wave Layers -->
@@ -44,10 +44,10 @@
   </path>
 
   <!-- Motivational Statement -->
-  <text x="600" y="54" text-anchor="middle" fill="#FFFFFF" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" letter-spacing="0.6">
+  <text x="600" y="54" text-anchor="middle" fill="#F3F1E2" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" letter-spacing="0.6">
     &#x201C;Engineering intelligence, scalability, and resilience &#x2014; one commit at a time.&#x201D;
   </text>
-  <text x="600" y="82" text-anchor="middle" fill="#94A3B8" font-family="'Fira Code', 'Courier New', monospace" font-size="12" letter-spacing="1.2">
+  <text x="600" y="82" text-anchor="middle" fill="#9AD0E2" font-family="'Fira Code', 'Courier New', monospace" font-size="12" letter-spacing="1.2">
     WISHMITHA DEVINDA DHARMARATHNA • @wishmitha2003
   </text>
 </svg>
