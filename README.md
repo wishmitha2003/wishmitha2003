@@ -56,33 +56,26 @@
 
 <table>
   <tr>
-    <td width="50%" align="center" valign="middle">
+    <td width="33%" align="center" valign="middle">
       <a href="https://github.com/wishmitha2003">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=wishmitha2003&show_icons=true&bg_color=45,1C4774,4075AD&title_color=F3F1E2&text_color=F3F1E2&icon_color=D3955E&border_color=9AD0E2&hide_border=false" alt="Wishmitha's GitHub Statistics" />
+        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=wishmitha2003&show_icons=true&bg_color=45,1C4774,4075AD&title_color=F3F1E2&text_color=F3F1E2&icon_color=9AD0E2&ring_color=9AD0E2&border_color=9AD0E2&hide_border=false" alt="Wishmitha's GitHub Statistics" />
       </a>
     </td>
-    <td width="50%" align="center" valign="middle">
+    <td width="34%" align="center" valign="middle">
       <a href="https://github.com/wishmitha2003">
-        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=wishmitha2003&background=45,1C4774,4075AD&ring=D3955E&fire=D3955E&currStreakLabel=F3F1E2&sideLabels=F3F1E2&dates=9AD0E2&stroke=9AD0E2&border=9AD0E2" alt="Wishmitha's GitHub Contribution Streak" />
+        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=wishmitha2003&background=45,1C4774,4075AD&ring=9AD0E2&fire=D3955E&currStreakLabel=F3F1E2&sideLabels=F3F1E2&dates=9AD0E2&stroke=9AD0E2&border=9AD0E2" alt="Wishmitha's GitHub Contribution Streak" />
       </a>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center" valign="middle">
+    <td width="33%" align="center" valign="middle">
       <a href="https://github.com/wishmitha2003">
         <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wishmitha2003&layout=compact&langs_count=8&bg_color=45,1C4774,4075AD&title_color=F3F1E2&text_color=F3F1E2&border_color=9AD0E2&hide_border=false" alt="Most Used Programming Languages" />
       </a>
     </td>
-    <td width="50%" align="center" valign="middle">
-      <a href="https://github.com/wishmitha2003">
-        <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wishmitha2003&theme=nord_dark" alt="GitHub Profile Summary Card" />
-      </a>
-    </td>
   </tr>
   <tr>
-    <td colspan="2" align="center" valign="middle">
+    <td colspan="3" align="center" valign="middle">
       <a href="https://github.com/wishmitha2003">
-        <img width="100%" src="./profile-3d-contrib/profile-night-view.svg" alt="3D GitHub Contribution Graph" />
+        <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=wishmitha2003&bg_color=1C4774&color=F3F1E2&line=9AD0E2&point=D3955E&area=true&area_color=4075AD&hide_border=false&border_color=9AD0E2&custom_title=Contributions%20in%20the%20Last%20Year" alt="Contributions in the Last Year" />
       </a>
     </td>
   </tr>
