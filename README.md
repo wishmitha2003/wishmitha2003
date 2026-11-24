@@ -82,7 +82,7 @@
   <tr>
     <td colspan="2" align="center" valign="middle">
       <a href="https://github.com/wishmitha2003">
-        <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=wishmitha2003&bg_color=1C4774&color=F3F1E2&line=9AD0E2&point=D3955E&area=true&area_color=4075AD&hide_border=false&border_color=9AD0E2" alt="GitHub Contribution Activity Graph" />
+        <img width="100%" src="./profile-3d-contrib/profile-night-view.svg" alt="3D GitHub Contribution Graph" />
       </a>
     </td>
   </tr>
