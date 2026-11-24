@@ -33,25 +33,8 @@
 ## About Me
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3200&pause=1200&color=9AD0E2&center=true&vCenter=true&width=780&lines=whoami+%E2%86%92+Wishmitha+Devinda+Dharmarathna;degree+%E2%86%92+BSc+(Hons)+Computer+Science+%E2%80%A2+SLIIT;focus+%E2%86%92+AI%2C+Full-Stack+Engineering%2C+Cybersecurity+%26+DevOps;goal+%E2%86%92+Engineering+scalable%2C+resilient%2C+intelligent+systems" alt="About Me Terminal Typing Effect" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2200&pause=600&color=9AD0E2&multiline=true&width=820&height=180&lines=%3E+whoami+%E2%86%92+Wishmitha+Devinda+Dharmarathna;%3E+degree+%E2%86%92+BSc+(Hons)+in+Computer+Science+%E2%80%94+SLIIT;%3E+interests+%E2%86%92+AI+%E2%80%A2+Full-Stack+%E2%80%A2+Cybersecurity+%E2%80%A2+SE+%E2%80%A2+DevOps;%3E+mission+%E2%86%92+Turning+complex+problems+into+scalable%2C+resilient+software;%3E+goal+%E2%86%92+Become+a+world-renowned+Computer+Scientist+%26+Software+Engineer" alt="About Me — Animated Typing Profile" />
 </div>
-
-```ts
-const developer = {
-  name: "Wishmitha Devinda Dharmarathna",
-  education: "BSc (Hons) in Computer Science — SLIIT",
-  interests: [
-    "Artificial Intelligence",
-    "Full-Stack Development",
-    "Cybersecurity",
-    "Software Engineering",
-    "DevOps",
-  ],
-  ambition: "Become a world-renowned Computer Scientist & Software Engineer",
-};
-```
-
-I am an undergraduate pursuing a **BSc (Hons) in Computer Science at SLIIT**, focused on turning complex engineering challenges into reliable, user-centered software — from fault-tolerant distributed backends to responsive web and mobile applications.
 
 <br/>
 
@@ -60,7 +43,7 @@ I am an undergraduate pursuing a **BSc (Hons) in Computer Science at SLIIT**, fo
 ## Technology Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,dart,python,cpp,react,vite,tailwind,flutter,html,css,spring,nodejs,mongodb,supabase,docker,vercel,githubactions,git,github,maven,vscode,blender&perline=8" alt="Technology Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts,dart,python,cpp,react,vite,tailwind,flutter,html,css,spring,nodejs,mongodb,supabase,docker,vercel,githubactions,git,github,maven,vscode,blender&perline=12" alt="Technology Stack Icons" width="100%" />
 </div>
 
 <br/>
