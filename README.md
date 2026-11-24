@@ -33,7 +33,7 @@
 ## About Me
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2200&pause=600&color=9AD0E2&multiline=true&width=820&height=180&lines=%3E+whoami+%E2%86%92+Wishmitha+Devinda+Dharmarathna;%3E+degree+%E2%86%92+BSc+(Hons)+in+Computer+Science+%E2%80%94+SLIIT;%3E+interests+%E2%86%92+AI+%E2%80%A2+Full-Stack+%E2%80%A2+Cybersecurity+%E2%80%A2+SE+%E2%80%A2+DevOps;%3E+mission+%E2%86%92+Turning+complex+problems+into+scalable%2C+resilient+software;%3E+goal+%E2%86%92+Become+a+world-renowned+Computer+Scientist+%26+Software+Engineer" alt="About Me — Animated Typing Profile" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2200&pause=600&color=9AD0E2&multiline=true&width=820&height=180&lines=%3E+Who_Am_I+%E2%86%92+Wishmitha+Devinda+Dharmarathna;%3E+Degree+%E2%86%92+BSc+(Hons)+in+Computer+Science+%E2%80%94+SLIIT;%3E+Interests+%E2%86%92+SE+%E2%80%A2+Full-Stack+%E2%80%A2+AI+%E2%80%A2+CyberSecurity+%E2%80%A2+DevOps;%3E+Mission+%E2%86%92+Turning+complex+problems+into+scalable%2C+resilient+software;%3E+Goal+%E2%86%92+Become+a+world-renowned+Computer+Scientist+%26+Software+Engineer" alt="About Me — Animated Typing Profile" />
 </div>
 
 <br/>
